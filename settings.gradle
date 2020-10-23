@@ -1,2 +1,3 @@
+include ':thirdModule'
 include ':app'
 rootProject.name = "Exper"
